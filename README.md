@@ -2,9 +2,11 @@
 
 Memory-induced complex contagion in spreading phenomena on networks.
 
+University of Barcelona, supervised by Dr. Marián Boguñá Espinal
+
 June 2021, Xavier R. Hoffmann <xrhoffmann@gmail.com>
 
-University of Barcelona, supervised by Dr. Marián Boguñá Espinal
+This repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license.
 
 ## Documents
 
