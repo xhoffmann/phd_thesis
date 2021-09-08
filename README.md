@@ -1,6 +1,8 @@
 # phd_thesis
 
-Memory-induced complex contagion in spreading phenomena on networks. Supervised by Dr. Marián Boguñá Espinal at the University of Barcelona.
+Memory-induced complex contagion in spreading phenomena on networks.
+
+Supervised by Dr. Marián Boguñá Espinal at the University of Barcelona.
 
 June 2021, Xavier R. Hoffmann <xrhoffmann@gmail.com>
 
